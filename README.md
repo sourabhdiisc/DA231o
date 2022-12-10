@@ -1,5 +1,7 @@
 # DA231o
 
+Dataset: https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-dataset-1-2-m-rows
+
 TopicModeling.ipynb : Code to run topic modeling
 
 WarSentiment.ipynb: Code to run sentiment analysis
@@ -10,3 +12,4 @@ SampleLocationSentiment.ipynb:  Code to run location wise sentiment analysis
 
 
 lda-*.html: results of topic modeling
+
